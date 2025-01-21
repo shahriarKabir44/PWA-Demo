@@ -1,0 +1,4 @@
+1. show a modal if PWA is not installed but is installable
+2. user clicks on the install button which will trigger the installation
+3. user can also decline 
+4. 12 hrs hidden
